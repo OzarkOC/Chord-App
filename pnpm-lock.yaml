@@ -1,0 +1,22 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  chordsheetjs:
+    specifier: ^8.5.0
+    version: 8.5.0
+
+packages:
+
+  /chordsheetjs@8.5.0:
+    resolution: {integrity: sha512-IZoS8By3Yr66pNHynahvYFscSCdPlHmVfQEVCqljeW4zDznS5RPcawocIJzz3Srj7MKjwmV44MEgaxpBZJO3cA==}
+    dependencies:
+      lodash.get: 4.4.2
+    dev: false
+
+  /lodash.get@4.4.2:
+    resolution: {integrity: sha512-z+Uw/vLuy6gQe8cfaFWD7p0wVv8fJl3mbzXh33RS+0oW2wvUqiRXiQ69gLWSLpgB5/6sU+r6BlQR0MBILadqTQ==}
+    dev: false
